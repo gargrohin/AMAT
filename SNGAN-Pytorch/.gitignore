@@ -1,0 +1,6 @@
+# mnist dataset
+*.png
+/data/*
+/fid_stat/*
+/logs/*
+*/__pycache__/*

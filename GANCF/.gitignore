@@ -1,0 +1,5 @@
+# mnist dataset
+/datasets/*
+/models/*
+GAN_tutorial.ipynb
+*.png

@@ -1,0 +1,8 @@
+data/*
+weights/*
+logs/*
+*.npz
+incept/*
+*.npz
+samples/*
+*/_pycache_/*
